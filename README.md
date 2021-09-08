@@ -1,5 +1,6 @@
 # Travel-Agent
-Project Praktikum Pemrograman Berorientasi Objek Studi Kasus Travel-Agent
+
+Project object oriented programming practice with study case Travel-Agent
 
 Kelompok 8 : Fajar Subarkah &amp; Wandi Saputra Sirait
 
