@@ -1,12 +1,10 @@
 # Travel-Agent
 
-
-
 Project object oriented programming practice with study case Travel-Agent
 
-Kelompok 8 : Fajar Subarkah &amp; Wandi Saputra Sirait
-
 Politeknik Caltex Riau
+
+Fajar Subarkah &amp; Wandi Saputra Sirait
 
 # Screenshot
 
