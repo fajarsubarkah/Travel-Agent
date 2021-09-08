@@ -2,8 +2,6 @@
 
 Project object oriented programming practice with study case Travel-Agent
 
-Politeknik Caltex Riau
-
 Fajar Subarkah &amp; Wandi Saputra Sirait
 
 # Screenshot
