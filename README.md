@@ -2,7 +2,7 @@
 
 Project object oriented programming practice with study case Travel-Agent
 
-Fajar Subarkah &amp; Wandi Saputra Sirait
+Fajar &amp; Wandi
 
 # Screenshot
 
