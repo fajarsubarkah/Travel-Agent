@@ -1,6 +1,6 @@
 # Travel-Agent
 
-Project object oriented programming practice with study case Travel-Agent
+Project object oriented programming practice with study case Travel Agent Sumatera
 
 Fajar &amp; Wandi
 
